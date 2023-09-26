@@ -12,3 +12,13 @@ Shows any committed files (green).
 ```
 Add file to be committed. 
 ```
+
+`git commit -m 'Add git commands'`
+```
+Commit staged changes, with a commit message. 
+```
+
+`git push`
+```
+Pushes commit to origin (Github). 
+```
