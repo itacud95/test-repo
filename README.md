@@ -31,6 +31,7 @@ Delete all local changes and take what is on Github.
 `git checkout -b feature`
 ```
 Creates and checks out a new branch 'feature'. 
+```
 
 `git checkout main`
 ```
