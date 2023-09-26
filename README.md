@@ -37,3 +37,14 @@ Creates and checks out a new branch 'feature'.
 ```
 Change branch to main. 
 ```
+
+`git rebase feature`
+```
+Take feature's commits and puts them after main's last commit. 
+Can create a merge conflict. 
+```
+
+`git diff`
+```
+Show what has changed. 
+```
