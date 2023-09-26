@@ -22,3 +22,5 @@ Commit staged changes, with a commit message.
 ```
 Pushes commit to origin (Github). 
 ```
+
+Trying to create a merge conflict. 
