@@ -23,4 +23,7 @@ Commit staged changes, with a commit message.
 Pushes commit to origin (Github). 
 ```
 
-Trying to create a merge conflict. 
+`git reset --hard origin/main`
+```
+Delete all local changes and take what is on Github.
+```
